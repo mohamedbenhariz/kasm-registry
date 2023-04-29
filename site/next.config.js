@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Mohamed Repo Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://mohamedbenhariz.github.io/',
+    listUrl: 'https://mohamedbenhariz.github.io/kasm-registry/',
     contactUrl: 'https://github.com/mohamedbenhariz',
   },
   reactStrictMode: true,
