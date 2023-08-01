@@ -1,6 +1,6 @@
 {
   "friendly_name": "SendMail",
-  "image_src": "gmail.png",
+  "image_src": "sendmail.png",
   "description": "Send Mail Via Google Account",
   "name": "typazatravail/sendmail:latest",
   "cores": 2,
