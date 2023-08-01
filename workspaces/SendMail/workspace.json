@@ -1,6 +1,6 @@
 {
   "friendly_name": "SendMail",
-  "image_src": "blob:https://mohamedbenhariz.github.io/4d73978e-ccd4-4099-a21d-ee7db711a8de",
+  "image_src": "gmail.png",
   "description": "Send Mail Via Google Account",
   "name": "typazatravail/sendmail:latest",
   "cores": 2,
