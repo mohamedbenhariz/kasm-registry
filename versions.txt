@@ -1,1 +1,1 @@
-dependabot_npm_and_yarn_site_cross-spawn-7.0.6
+1.0
