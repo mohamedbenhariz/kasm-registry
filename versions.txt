@@ -1,1 +1,1 @@
-1.0
+dependabot_npm_and_yarn_site_nanoid-3.3.8
